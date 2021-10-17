@@ -2,3 +2,5 @@ doc1 is good
 doc 1 is fine 
 Glen is working on the same document
 Glen is also working on this file
+jacques is in uk
+alino is in candada
